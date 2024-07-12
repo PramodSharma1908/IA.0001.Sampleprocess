@@ -107,7 +107,7 @@
         <OutArgument x:TypeArguments="x:String">[Newversion]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:String">1.0.25</InArgument>
+        <InArgument x:TypeArguments="x:String">1.0.26</InArgument>
       </Assign.Value>
     </Assign>
     <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="433.6,113.6" sap2010:WorkflowViewState.IdRef="WriteLine_3" Text="[Newversion]" />
